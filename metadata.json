@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster Gemini Chess",
+  "description": "A sophisticated online chess application featuring an integrated AI grandmaster powered by Gemini 3 Flash for move suggestions, analysis, and real-time coaching.",
+  "requestFramePermissions": []
+}
