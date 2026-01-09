@@ -2,7 +2,7 @@
 import PocketBase from 'pocketbase';
 
 // PocketBase 서버 URL (사용자의 환경에 맞게 수정 가능)
-const PB_URL = process.env.POCKETBASE_URL || 'http://127.0.0.1:8090';
+const PB_URL = 'https://hypothesis-manufacturers-bali-pockets.trycloudflare.com';
 export const pb = new PocketBase(PB_URL);
 
 export interface MatchRecord {
